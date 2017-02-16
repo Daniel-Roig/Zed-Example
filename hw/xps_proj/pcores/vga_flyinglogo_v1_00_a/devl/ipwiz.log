@@ -1,0 +1,283 @@
+Mapping logical library work (line 1) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 2) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 3) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 4) to current logical library
+logo_vga_v1_00_a ...
+Parsing XST project file successfully ...
+Analyzing HDL source files ...
+Analyzing HDL source files successfully ...
+HDL language for the peripheral (top level) design unit vga_flyinglogo is vhdl
+...
+INFO:EDK:3391 - Create temporary xst project file:
+   E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/sync_gen.vhd" in
+Library logo_vga_v1_00_a.
+Entity <sync_gen> compiled.
+Entity <sync_gen> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/video_merge.vhd" in
+Library logo_vga_v1_00_a.
+Entity <video_merge> compiled.
+Entity <video_merge> (Architecture <Behavioral>) compiled.
+Compiling vhdl file
+"E:/HC_Training/practice/logo_vga_forip/ipcore_dir/logo_bram.vhd" in Library
+logo_vga_v1_00_a.
+Entity <logo_bram> compiled.
+Entity <logo_bram> (Architecture <logo_bram_a>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/vga_flyinglogo.vhd"
+in Library logo_vga_v1_00_a.
+Entity <vga_flyinglogo> compiled.
+Entity <vga_flyinglogo> (Architecture <Behavioral>) compiled.
+
+
+Analyzing HDL attributes ...
+ERROR:EDK - Could not find top level entity logo_vga
+WARNING:EDK:3590 - Unable to delete temporary project file
+   E:\HC_Training\EDK\ne3_vga\pcores\logo_vga.prj : 13
+HDL language for the peripheral (top level) design unit vga_flyinglogo is vhdl
+...
+WARNING:EDK:2221 - Project file E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+   already exists, will be overwrite and removed afterward ...
+INFO:EDK:3391 - Create temporary xst project file:
+   E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/sync_gen.vhd" in
+Library logo_vga_v1_00_a.
+Entity <sync_gen> compiled.
+Entity <sync_gen> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/video_merge.vhd" in
+Library logo_vga_v1_00_a.
+Entity <video_merge> compiled.
+Entity <video_merge> (Architecture <Behavioral>) compiled.
+Compiling vhdl file
+"E:/HC_Training/practice/logo_vga_forip/ipcore_dir/logo_bram.vhd" in Library
+logo_vga_v1_00_a.
+Entity <logo_bram> compiled.
+Entity <logo_bram> (Architecture <logo_bram_a>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/vga_flyinglogo.vhd"
+in Library logo_vga_v1_00_a.
+Entity <vga_flyinglogo> compiled.
+Entity <vga_flyinglogo> (Architecture <Behavioral>) compiled.
+
+
+Analyzing HDL attributes ...
+ERROR:EDK - Could not find top level entity logo_vga
+WARNING:EDK:3590 - Unable to delete temporary project file
+   E:\HC_Training\EDK\ne3_vga\pcores\logo_vga.prj : 13
+Mapping logical library work (line 1) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 2) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 3) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 4) to current logical library
+logo_vga_v1_00_a ...
+Parsing XST project file successfully ...
+Analyzing HDL source files ...
+Analyzing HDL source files successfully ...
+HDL language for the peripheral (top level) design unit vga_flyinglogo is vhdl
+...
+WARNING:EDK:2221 - Project file E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+   already exists, will be overwrite and removed afterward ...
+INFO:EDK:3391 - Create temporary xst project file:
+   E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/sync_gen.vhd" in
+Library logo_vga_v1_00_a.
+Entity <sync_gen> compiled.
+Entity <sync_gen> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/video_merge.vhd" in
+Library logo_vga_v1_00_a.
+Entity <video_merge> compiled.
+Entity <video_merge> (Architecture <Behavioral>) compiled.
+Compiling vhdl file
+"E:/HC_Training/practice/logo_vga_forip/ipcore_dir/logo_bram.vhd" in Library
+logo_vga_v1_00_a.
+Entity <logo_bram> compiled.
+Entity <logo_bram> (Architecture <logo_bram_a>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/vga_flyinglogo.vhd"
+in Library logo_vga_v1_00_a.
+Entity <vga_flyinglogo> compiled.
+Entity <vga_flyinglogo> (Architecture <Behavioral>) compiled.
+
+
+Analyzing HDL attributes ...
+ERROR:EDK - Could not find top level entity logo_vga
+WARNING:EDK:3590 - Unable to delete temporary project file
+   E:\HC_Training\EDK\ne3_vga\pcores\logo_vga.prj : 13
+HDL language for the peripheral (top level) design unit vga_flyinglogo is vhdl
+...
+WARNING:EDK:2221 - Project file E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+   already exists, will be overwrite and removed afterward ...
+INFO:EDK:3391 - Create temporary xst project file:
+   E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/sync_gen.vhd" in
+Library logo_vga_v1_00_a.
+Entity <sync_gen> compiled.
+Entity <sync_gen> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/video_merge.vhd" in
+Library logo_vga_v1_00_a.
+Entity <video_merge> compiled.
+Entity <video_merge> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/vga_flyinglogo.vhd"
+in Library logo_vga_v1_00_a.
+Entity <vga_flyinglogo> compiled.
+Entity <vga_flyinglogo> (Architecture <Behavioral>) compiled.
+
+
+Analyzing HDL attributes ...
+ERROR:EDK - Could not find top level entity logo_vga
+WARNING:EDK:3590 - Unable to delete temporary project file
+   E:\HC_Training\EDK\ne3_vga\pcores\logo_vga.prj : 13
+Mapping logical library work (line 1) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 2) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 3) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 4) to current logical library
+logo_vga_v1_00_a ...
+Parsing XST project file successfully ...
+Analyzing HDL source files ...
+Analyzing HDL source files successfully ...
+Mapping logical library work (line 1) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 2) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 3) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 4) to current logical library
+logo_vga_v1_00_a ...
+Parsing XST project file successfully ...
+Analyzing HDL source files ...
+Analyzing HDL source files successfully ...
+HDL language for the peripheral (top level) design unit vga_flyinglogo is vhdl
+...
+WARNING:EDK:2221 - Project file E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+   already exists, will be overwrite and removed afterward ...
+INFO:EDK:3391 - Create temporary xst project file:
+   E:\HC_Training\EDK\ne3_vga\pcores/logo_vga.prj
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/sync_gen.vhd" in
+Library logo_vga_v1_00_a.
+Entity <sync_gen> compiled.
+Entity <sync_gen> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/video_merge.vhd" in
+Library logo_vga_v1_00_a.
+Entity <video_merge> compiled.
+Entity <video_merge> (Architecture <Behavioral>) compiled.
+Compiling vhdl file
+"E:/HC_Training/practice/logo_vga_forip/ipcore_dir/logo_bram.vhd" in Library
+logo_vga_v1_00_a.
+Entity <logo_bram> compiled.
+Entity <logo_bram> (Architecture <logo_bram_a>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/vga_flyinglogo.vhd"
+in Library logo_vga_v1_00_a.
+Entity <vga_flyinglogo> compiled.
+Entity <vga_flyinglogo> (Architecture <Behavioral>) compiled.
+
+
+Analyzing HDL attributes ...
+ERROR:EDK - Could not find top level entity logo_vga
+WARNING:EDK:3590 - Unable to delete temporary project file
+   E:\HC_Training\EDK\ne3_vga\pcores\logo_vga.prj : 13
+Mapping logical library work (line 1) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 2) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 3) to current logical library
+logo_vga_v1_00_a ...
+Mapping logical library work (line 4) to current logical library
+logo_vga_v1_00_a ...
+Parsing XST project file successfully ...
+Analyzing HDL source files ...
+Analyzing HDL source files successfully ...
+Mapping logical library work (line 1) to current logical library
+vga_flyinglogo_v1_00_a ...
+Mapping logical library work (line 2) to current logical library
+vga_flyinglogo_v1_00_a ...
+Mapping logical library work (line 3) to current logical library
+vga_flyinglogo_v1_00_a ...
+Mapping logical library work (line 4) to current logical library
+vga_flyinglogo_v1_00_a ...
+Parsing XST project file successfully ...
+Analyzing HDL source files ...
+Analyzing HDL source files successfully ...
+HDL language for the peripheral (top level) design unit vga_flyinglogo is vhdl
+...
+INFO:EDK:3391 - Create temporary xst project file:
+   E:\HC_Training\EDK\ne3_vga\pcores/vga_flyinglogo.prj
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/sync_gen.vhd" in
+Library vga_flyinglogo_v1_00_a.
+Entity <sync_gen> compiled.
+Entity <sync_gen> (Architecture <Behavioral>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/video_merge.vhd" in
+Library vga_flyinglogo_v1_00_a.
+Entity <video_merge> compiled.
+Entity <video_merge> (Architecture <Behavioral>) compiled.
+Compiling vhdl file
+"E:/HC_Training/practice/logo_vga_forip/ipcore_dir/logo_bram.vhd" in Library
+vga_flyinglogo_v1_00_a.
+Entity <logo_bram> compiled.
+Entity <logo_bram> (Architecture <logo_bram_a>) compiled.
+Compiling vhdl file "E:/HC_Training/practice/logo_vga_forip/vga_flyinglogo.vhd"
+in Library vga_flyinglogo_v1_00_a.
+Entity <vga_flyinglogo> compiled.
+Entity <vga_flyinglogo> (Architecture <Behavioral>) compiled.
+
+
+Analyzing HDL attributes ...
+Entity name = vga_flyinglogo
+INFO:EDK:1607 - IPTYPE set to value : PERIPHERAL
+INFO:EDK:1511 - IMP_NETLIST set to value : TRUE
+INFO:EDK:1486 - HDL set to value : VHDL
+WARNING:EDK:3590 - Unable to delete temporary project file
+   E:\HC_Training\EDK\ne3_vga\pcores\vga_flyinglogo.prj : 13
+Copying file logo_bram.vhd to
+E:\HC_Training\EDK\ne3_vga\pcores/vga_flyinglogo_v1_00_a/hdl/vhdl/ ...
+Copying file video_merge.vhd to
+E:\HC_Training\EDK\ne3_vga\pcores/vga_flyinglogo_v1_00_a/hdl/vhdl/ ...
+Copying file sync_gen.vhd to
+E:\HC_Training\EDK\ne3_vga\pcores/vga_flyinglogo_v1_00_a/hdl/vhdl/ ...
+Copying file vga_flyinglogo.vhd to
+E:\HC_Training\EDK\ne3_vga\pcores/vga_flyinglogo_v1_00_a/hdl/vhdl/ ...
+
+Thank you for using Create and Import Peripheral Wizard! Please find your
+imported peripheral under
+E:\HC_Training\EDK\ne3_vga\pcores\vga_flyinglogo_v1_00_a.
+
+Summary:
+
+  Logical library     : vga_flyinglogo_v1_00_a
+  Version             : 1.00.a
+  Bus interface(s)    : None
+
+The following sub-directories will be created:
+
+  - vga_flyinglogo_v1_00_a\data
+  - vga_flyinglogo_v1_00_a\hdl
+  - vga_flyinglogo_v1_00_a\hdl\vhdl
+  - vga_flyinglogo_v1_00_a\netlist
+
+
+The following HDL source files will be copied into the
+vga_flyinglogo_v1_00_a\hdl\vhdl directory:
+
+  - logo_bram.vhd
+  - video_merge.vhd
+  - sync_gen.vhd
+  - vga_flyinglogo.vhd
+
+The following files will be created under the vga_flyinglogo_v1_00_a\data
+directory:
+
+  - vga_flyinglogo_v2_1_0.mpd
+  - vga_flyinglogo_v2_1_0.pao
+
+  - vga_flyinglogo_v2_1_0.bbd
+
+The following netlist file(s) will be copied into the
+vga_flyinglogo_v1_00_a\netlist directory:
+
+  - logo_bram.ngc
+
+

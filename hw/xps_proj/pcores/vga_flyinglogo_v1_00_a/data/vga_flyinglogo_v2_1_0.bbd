@@ -1,0 +1,9 @@
+##############################################################################
+## Filename:          E:\HC_Training\EDK\ne3_vga\pcores/vga_flyinglogo_v1_00_a/data/vga_flyinglogo_v2_1_0.bbd
+## Description:       Black Box Definition
+## Date:              Thu Apr 14 15:35:14 2011 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+Files
+################################################################################
+logo_bram.ngc
